@@ -1,7 +1,7 @@
-## Oi! Eu sou Nataly Carvalho👋
+## Oi! Eu sou Nataly Carvalho
 ##
-- 📚 Eu atualmente estou estudando C e Python
-- ✨Pronomes: Ela/Dela
+- Eu atualmente estou estudando C e Python
+- Pronomes: Ela/Dela
 ##
 <div align="center">
   <a href="(https://github.com/Nataly-Carvalho/)">
