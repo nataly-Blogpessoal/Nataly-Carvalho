@@ -1,20 +1,19 @@
 ## Oi! Eu sou Nataly Carvalho👋
 ##
 - 📚 Eu atualmente estou estudando C e Python
-- 📫Contacte-me no email: natalycarvalho.dev@gmail.com
-- ✨Pronome: Ela/Dela
+- ✨Pronomes: Ela/Dela
 ##
 <div align="center">
   <a href="(https://github.com/Nataly-Carvalho/)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nataly-Carvalho&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Carvalho&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nataly-Carvalho&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Carvalho&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Naty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Naty-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Naty-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Naty-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
   <img align="right" alt="Naty-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959279538410500116/983250034948710410/Meu_.gif?width=408&height=408">
 </div>
