@@ -1,6 +1,6 @@
-## Oi! Eu sou Nataly Carvalho
+## Olá! Eu sou Nataly Carvalho
 ##
-- Eu atualmente estou estudando C e Python
+- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano atualmente estou estudando C e Python.
 - Pronomes: Ela/Dela
 ##
 <div align="center">
