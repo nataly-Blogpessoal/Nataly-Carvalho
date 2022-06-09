@@ -11,7 +11,7 @@
   
   </div>
 <div style="display: inline_block"><br>
-  
+  Estudando atualmente:
   <img align="center" alt="Naty-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Naty-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
