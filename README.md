@@ -1,6 +1,7 @@
 ## Olá! Eu sou Nataly Carvalho
 ##
-- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano atualmente estou estudando C e Python.
+- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano atualmente estou estudando C.
+- E estudante da Generation Brasil no curso de Java.
 - Pronomes: Ela/Dela
 ##
 <div align="center">
