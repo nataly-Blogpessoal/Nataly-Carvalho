@@ -14,6 +14,7 @@
   Estudando atualmente:
   <img align="center" alt="Naty-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Naty-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+   <img align="center" alt="Naty-C" height="30" width="30" <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   <img align="right" alt="Naty-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959249525015478315/983738346297774180/ezgif-3-e90a4e6ebb.gif?width=453&height=453">
 </div>
