@@ -1,12 +1,13 @@
 ## Olá! Eu sou Nataly Carvalho
 ##
-- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano atualmente estou estudando C.
-- E estudante da Generation Brasil no curso de Java.
+- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano.
+- Estudante da Generation Brasil na turma 55 <3.
 - Pronomes: Ela/Dela
 ##
 <div align="center">
   <a href="(https://github.com/Nataly-Carvalho/)">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Nataly-Carvalho&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Carvalho&layout=compact&langs_count=7&theme=onedark"/>
  <img height= "130cm" src="http://github-readme-streak-stats.herokuapp.com?user=Nataly-Carvalho&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br"/>
 </div>
   
