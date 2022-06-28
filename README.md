@@ -7,7 +7,6 @@
 <div align="center">
   <a href="(https://github.com/Nataly-Carvalho/)">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Nataly-Carvalho&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly-Carvalho&layout=compact&langs_count=7&theme=onedark"/>
  <img height= "130cm" src="http://github-readme-streak-stats.herokuapp.com?user=Nataly-Carvalho&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&locale=pt-br"/>
 </div>
   
@@ -17,6 +16,7 @@
   <img align="center" alt="Naty-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Naty-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="Naty-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/960/1*9GJWUvET3it_2XPX9CAUXw.gif">
 
   
 </div>
