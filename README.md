@@ -1,8 +1,8 @@
 ## Olá! Eu sou Nataly Carvalho
 ##
-- Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano.
-- Estudante da Generation Brasil na turma 55 <3.
-- Pronomes: Ela/Dela
+🌼 Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano.
+🌼 Estudante da Generation Brasil na turma 55 <3.
+🌼 Pronomes: Ela/Dela
 ##
 <div align="center">
   <a href="(https://github.com/Nataly-Carvalho/)">
