@@ -1,5 +1,5 @@
 ## Olá! Eu sou Nataly Carvalho
-##
+
 - 🌼Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano.
 - 🌼Estudante da Generation Brasil na turma 55 <3.
 - 🌼Pronomes: Ela/Dela
