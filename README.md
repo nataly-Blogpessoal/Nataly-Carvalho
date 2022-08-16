@@ -22,8 +22,6 @@
    <img align="center" alt="Naty-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   -
    <img align="center" alt="Naty-My" height="30" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  -
-  <img align="center" alt="Naty-Doker" height="30" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   
   <img align="right" alt="cat-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/960/1*9GJWUvET3it_2XPX9CAUXw.gif">
 
